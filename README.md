@@ -120,6 +120,14 @@ PS：个人精力有限，不定期更新，欢迎更多人来维护。如有建
 
 ![antcat](Image/antcat01.png)
 
+### AntMaps
+
+[👉网页URL](https://antmaps.org/?)
+
+AntMaps是一个全球蚂蚁分布的在线可视化数据库，通过色块的深浅可以清晰的看出全球各地蚂蚁种类的分布情况，鼠标悬停在一个地理区域还可以查看到州/省有多少个原生本地种类，属于比较酷的网站。
+
+![antmaps](Image/antmaps01.png)
+
 ### 蚁网
 
 [👉网页URL](http://www.ants-china.com/index.html)

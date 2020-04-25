@@ -14,49 +14,41 @@ PS：个人精力有限，不定期更新，欢迎更多人来维护。如有建
 
 ## 目录
 
-Table of Contents
-
-=================
-
-
-
-  \* [昆虫知识常用网站](#昆虫知识常用网站)
-
-   \* [目录](#目录)
-
    \* [综合类/Integrated](#综合类integrated)
 
-​     \* [<a href="http://gaga.biodiv.tw/9701bx/in5.htm" rel="nofollow">嘎嘎昆虫网</a>](#嘎嘎昆虫网)
+​     \* [嘎嘎昆虫网](#嘎嘎昆虫网)
 
-​     \* [<a href="http://www.insects.site/index.html" rel="nofollow">昆虫网</a>](#昆虫网)
+​     \* [昆虫网](#昆虫网)
 
-​     \* [<a href="http://www.zoology.csdb.cn/page/index.vpage" rel="nofollow">中国动物主题数据库</a>](#中国动物主题数据库)
+​     \* [中国动物主题数据库](#中国动物主题数据库)
 
 ​     \* [Catalogue of life/生命目录](#catalogue-of-life生命目录)
 
-​     \* [<a href="http://www.iucngisd.org/gisd/" rel="nofollow">全球入侵物种数据库</a>](#全球入侵物种数据库)
+​     \* [全球入侵物种数据库](#全球入侵物种数据库)
 
-​     \* [<a href="https://www.cabi.org/isc/datasheet/45082" rel="nofollow">入侵物种概要</a>](#入侵物种概要)
+​     \* [入侵物种概要](#入侵物种概要)
 
    \* [蚂蚁/Ants](#蚂蚁ants)
 
-​     \* [<a href="https://www.antwiki.org/wiki/Welcome_to_AntWiki" rel="nofollow">AntWiKi</a>](#antwiki)
+​     \* [AntWiKi](#antwiki)
 
-​     \* [<a href="https://www.antweb.org/" rel="nofollow">AntWeb</a>](#antweb)
+​     \* [AntWeb](#antweb)
 
-​     \* [<a href="https://antcat.org/" rel="nofollow">AntCat</a>](#antcat)
+​     \* [AntCat](#antcat)
 
-​     \* [<a href="http://www.ants-china.com/index.html" rel="nofollow">蚁网</a>](#蚁网)
+​     \* [蚁网](#蚁网)
 
-​     \* [蚂蚁分类图摘<a href="http://www.antspic.com/" rel="nofollow">AntsPic</a>](#蚂蚁分类图摘antspic)
+​     \* [蚂蚁分类图摘AntsPic](#蚂蚁分类图摘antspic)
 
    \* [学术相关/Scholar](#学术相关scholar)
 
-​     \* [<a href="https://academic-accelerator.com/" rel="nofollow">期刊简写查询</a>](#期刊简写查询)
+​     \* [期刊简写查询](#期刊简写查询)
 
 ## 综合类/Integrated
 
-### [嘎嘎昆虫网](http://gaga.biodiv.tw/9701bx/in5.htm)
+### 嘎嘎昆虫网
+
+[👉网页URL](http://gaga.biodiv.tw/9701bx/in5.htm)
 
 这是一个台湾的昆虫图鉴网站，汇集了很多台湾的常见昆虫生态图片，配有一定的简短介绍，还对雌雄做了区分以及加上了在**台湾地区**的稀有程度。里面还有一些蜘蛛的图鉴，个人觉得算是非常不错的网站了，非常值得推荐。
 
@@ -64,7 +56,9 @@ Table of Contents
 
 ![嘎嘎昆虫网分类页面](Image/gaga02.png)
 
-### [昆虫网](http://www.insects.site/index.html)
+### 昆虫网
+
+[👉网页URL](http://www.insects.site/index.html)
 
 > **重要提示**：由于文字撰写和图片授权付出了编辑的很大努力,所以,未经许可,本站原创和独家接受授权的那部分文字和图片是不能转载或引用的哦。谢谢合作~
 
@@ -72,7 +66,9 @@ Table of Contents
 
 ![昆虫网](Image/insect01.png)
 
-### [中国动物主题数据库](http://www.zoology.csdb.cn/page/index.vpage)
+### 中国动物主题数据库
+
+[👉网页URL](http://www.zoology.csdb.cn/page/index.vpage)
 
 > 中国动物主题库包括：脊椎动物代码数据库、动物物种编目数据库、动物名称数据库、《中国动物志》出版与编研信息数据库、濒危和保护动物数据库、中国昆虫新种数据库、中国昆虫模式标本数据库、动物研究专家数据库、中国动物志数据库、中国动物图谱数据库、中国蜜蜂数据库、中国隐翅虫名录数据库、云南鸟类数据库、中国灵长类物种及文献数据库、中国两栖爬行动物数据库、中国直翅目昆虫数据库、中国鸟类数据库、中国内陆水体鱼类数据库、西南县级脊椎动物分布名录、西南保护区脊椎动物分布名录、云南蝴蝶分布名录、云南森林昆虫分布名录。
 
@@ -82,13 +78,17 @@ Table of Contents
 
 ### Catalogue of life/生命目录
 
+[👉网页URL](http://www.catalogueoflife.org/)
+
 《Catalogue of life》是由全球3000多个分类学专家提供和审核的分类检索网站，包含180多万种动植物、微生物的索引，可以查询到所属的分类阶元、地理分布等信息，这是老师推荐给我们的，主要用来检索当前有效名称及是否存在重名。
 
 ![生命目录主页](Image/COF01.png)
 
 ![生命目录检索](Image/COF02.png)
 
-### [全球入侵物种数据库](http://www.iucngisd.org/gisd/)
+### 全球入侵物种数据库
+
+[👉网页URL](http://www.iucngisd.org/gisd/)
 
 相信大家在做昆虫或者植物的研究时，经常会遇到入侵/检疫等关键字，这个网址的作用就是检索入侵种的信息，值得注意的是该网站最好使用拉丁名去检索，通用的英文名效果不是太好，结果会显示查询的入侵种的基本信息，分布点及影响等相关信息。该网站的右上角有个**100 of the worst**，点进入会显示当前全球前100种入侵物种的信息，截止目前是2013年的更新数据。
 
@@ -96,7 +96,9 @@ Table of Contents
 
 ![GISD物种信息](Image/gisd02.png)
 
-### [入侵物种概要](https://www.cabi.org/isc/datasheet/45082)
+### 入侵物种概要
+
+[👉网页URL](https://www.cabi.org/isc/datasheet/45082)
 
 由国际农业和生物研究中心（Centre Agriculture Bioscience International, CABI）组织整理的入侵物种的百科全书数据库，类似于上述所提到的全球入侵物种数据库，也有详细的物种简介等信息，亮点是可以下载全球的分布信息的数据。
 
@@ -106,7 +108,9 @@ Table of Contents
 
 ## 蚂蚁/Ants
 
-### [AntWiKi](https://www.antwiki.org/wiki/Welcome_to_AntWiki)
+### AntWiKi
+
+[👉网页URL](https://www.antwiki.org/wiki/Welcome_to_AntWiki)
 
 > Every Ant Tells a Story - And Scientists Explain Their Stories Here!
 
@@ -114,23 +118,31 @@ Table of Contents
 
 ![antwiki](Image/antwiki01.png)
 
-### [AntWeb](https://www.antweb.org/)
+### AntWeb
+
+[👉网页URL](https://www.antweb.org/)
 
 大名鼎鼎的蚁网，号称是全球最大的蚂蚁在线数据库，由全世界的蚂蚁研究者上传标本图片，这个网址比较偏向于分类学，对于做鉴定的同学来说是个非常值得研究的网站。网站的宗旨就是为全世界的科研提供高质量的标本图片，因此只要你标注了图像的摄影师出处，全站的图片都是可以免费使用的，具体引用说明可以参考[AntWeb](https://www.antweb.org/citing_antweb.jsp)。
 
 ![antweb](Image/antweb01.png)
 
-### [AntCat](https://antcat.org/)
+### AntCat
+
+[👉网页URL](https://antcat.org/)
 
 类似于AntWeb，也是一个偏向于分类学的蚂蚁网站，比较简洁，但个人感觉不如AntWeb好用。个人使用的不多。
 
 ![antcat](Image/antcat01.png)
 
-### [蚁网](http://www.ants-china.com/index.html)
+### 蚁网
+
+[👉网页URL](http://www.ants-china.com/index.html)
 
 这个是国内的蚁网，属于国内比较权威的蚂蚁网站了，按照亚科进行分类，能查到国内的大部分蚂蚁种类的信息，但是这个网址不允许转载和引用，本人法盲，看着网站下面的版权声明瑟瑟发抖，就不截图了，内容还是相当不错的，有对亚科、属的介绍，而且都是中文的，具体内容大家自信点进去看看就知道了。
 
-### 蚂蚁分类图摘[AntsPic](http://www.antspic.com/)
+### 蚂蚁分类图摘AntsPic
+
+[👉网页URL](http://www.antspic.com/)
 
 应该是一个用于学习用途的个人建站，有比较简单的介绍和分布信息，比较有趣的是作者提供了一些蚂蚁的相关冷门知识，可以供蚂蚁爱好者参考和了解蚂蚁的习性，右上角甚至还有一个资料分享的按钮，里面有些非常不错的扫描版书籍，这些买起来还是好贵的👀。
 
@@ -138,7 +150,9 @@ Table of Contents
 
 ## 学术相关/Scholar
 
-### [期刊简写查询](https://academic-accelerator.com/)
+### 期刊简写查询
+
+[👉网页URL](https://academic-accelerator.com/)
 
 发文章的同学们可能会遇到在引用参考文献时必须对文章所在的期刊名进行缩写的，这个网站就是查询简写的，输入相应的期刊全称，点击DISCOVER就可以查到了，然后点**Abbreviation**就可以查看到简写了，甚至还会有一些该期刊的信息，比如top10%、IF之类的，个人使用起来感觉还不错。
 

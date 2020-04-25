@@ -16,6 +16,8 @@ PS：个人精力有限，不定期更新，欢迎更多人来维护。如有建
 
 [综合类/Integrated](#综合类/Integrated)
 
+[蚂蚁/Ants](#蚂蚁/Ants)
+
 ## 综合类/Integrated
 
 ### [嘎嘎昆虫网](http://gaga.biodiv.tw/9701bx/in5.htm)

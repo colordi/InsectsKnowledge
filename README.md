@@ -14,35 +14,21 @@ PS：个人精力有限，不定期更新，欢迎更多人来维护。如有建
 
 ## 目录
 
-   \* [综合类/Integrated](#综合类integrated)
-
-​     \* [嘎嘎昆虫网](#嘎嘎昆虫网)
-
-​     \* [昆虫网](#昆虫网)
-
-​     \* [中国动物主题数据库](#中国动物主题数据库)
-
-​     \* [Catalogue of life/生命目录](#catalogue-of-life生命目录)
-
-​     \* [全球入侵物种数据库](#全球入侵物种数据库)
-
-​     \* [入侵物种概要](#入侵物种概要)
-
-   \* [蚂蚁/Ants](#蚂蚁ants)
-
-​     \* [AntWiKi](#antwiki)
-
-​     \* [AntWeb](#antweb)
-
-​     \* [AntCat](#antcat)
-
-​     \* [蚁网](#蚁网)
-
-​     \* [蚂蚁分类图摘AntsPic](#蚂蚁分类图摘antspic)
-
-   \* [学术相关/Scholar](#学术相关scholar)
-
-​     \* [期刊简写查询](#期刊简写查询)
+* [综合类/Integrated](#综合类integrated)
+   * [嘎嘎昆虫网](#嘎嘎昆虫网)
+   * [昆虫网](#昆虫网)
+   * [中国动物主题数据库](#中国动物主题数据库)
+   * [Catalogue of life/生命目录](#catalogue-of-life生命目录)
+   * [全球入侵物种数据库](#全球入侵物种数据库)
+   * [入侵物种概要](#入侵物种概要)
+* [蚂蚁/Ants](#蚂蚁ants)
+   * [AntWiKi](#antwiki)
+   * [AntWeb](#antweb)
+   * [AntCat](#antcat)
+   * [蚁网](#蚁网)
+   * [蚂蚁分类图摘AntsPic](#蚂蚁分类图摘antspic)
+* [学术相关/Scholar](#学术相关scholar)
+   * [期刊简写查询](#期刊简写查询)
 
 ## 综合类/Integrated
 

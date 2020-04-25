@@ -100,7 +100,7 @@ PS：个人精力有限，不定期更新，欢迎更多人来维护。如有建
 
 发文章的同学们可能会遇到在引用参考文献时必须对文章所在的期刊名进行缩写的，这个网站就是查询简写的，输入相应的期刊全称，点击DISCOVER就可以查到了，然后点**Abbreviation**就可以查看到简写了，甚至还会有一些该期刊的信息，比如top10%、IF之类的，个人使用起来感觉还不错。
 
-![期刊简写](Image/Academic Accelerator01.png)
+![期刊简写](Image/AcademicAccelerator01.png)
 
-![期刊简写](Image/Academic Accelerator02.png)
+![期刊简写](Image/AcademicAccelerator02.png)
 

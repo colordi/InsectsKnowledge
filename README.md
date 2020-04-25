@@ -1,8 +1,6 @@
----
-typora-root-url: /Users/yandi/Library/Mobile Documents/com~apple~CloudDocs/MarkDown/Image
----
-
 # 昆虫知识常用网站
+
+
 
 汇集了一些常用的查阅昆虫资料的网站，主要偏向于分类和生态学方向（因本人方向是蚂蚁生态的，分子方向接触的不多）。所有网站均根据本人自己使用以及各位师兄师姐师弟师妹的使用体验后觉得不错收录进来的。
 

@@ -14,25 +14,7 @@ PS：个人精力有限，不定期更新，欢迎更多人来维护。如有建
 
 ## 目录
 
-- [昆虫知识常用网站](#--------)
-  * [目录](#--)
-  * [综合类/Integrated](#----integrated)
-    + [[嘎嘎昆虫网](http://gaga.biodiv.tw/9701bx/in5.htm)](#--------http---gagabiodivtw-9701bx-in5htm-)
-    + [[昆虫网](http://www.insects.site/index.html)](#------http---wwwinsectssite-indexhtml-)
-    + [[中国动物主题数据库](http://www.zoology.csdb.cn/page/index.vpage)](#------------http---wwwzoologycsdbcn-page-indexvpage-)
-    + [Catalogue of life/生命目录](#catalogue-of-life-----)
-    + [[全球入侵物种数据库](http://www.iucngisd.org/gisd/)](#------------http---wwwiucngisdorg-gisd--)
-    + [[入侵物种概要](https://www.cabi.org/isc/datasheet/45082)](#---------https---wwwcabiorg-isc-datasheet-45082-)
-  * [蚂蚁/Ants](#---ants)
-    + [[AntWiKi](https://www.antwiki.org/wiki/Welcome_to_AntWiki)](#-antwiki--https---wwwantwikiorg-wiki-welcome-to-antwiki-)
-    + [[AntWeb](https://www.antweb.org/)](#-antweb--https---wwwantweborg--)
-    + [[AntCat](https://antcat.org/)](#-antcat--https---antcatorg--)
-    + [[蚁网](http://www.ants-china.com/index.html)](#-----http---wwwants-chinacom-indexhtml-)
-    + [蚂蚁分类图摘[AntsPic](http://www.antspic.com/)](#-------antspic--http---wwwantspiccom--)
-  * [学术相关](#----)
-    + [[期刊简写查询](https://academic-accelerator.com/)](#---------https---academic-acceleratorcom--)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+[综合类/Integrated](#综合类/Integrated)
 
 ## 综合类/Integrated
 
@@ -116,7 +98,7 @@ PS：个人精力有限，不定期更新，欢迎更多人来维护。如有建
 
 ![antspic](Image/antspic01.png)
 
-## 学术相关
+## 学术相关/Scholar
 
 ### [期刊简写查询](https://academic-accelerator.com/)
 

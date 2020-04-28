@@ -19,16 +19,23 @@ PS：个人精力有限，不定期更新，欢迎更多人来维护。如有建
    * [昆虫网](#昆虫网)
    * [中国动物主题数据库](#中国动物主题数据库)
    * [Catalogue of life/生命目录](#catalogue-of-life生命目录)
+   * [GBIF/全球生物多样性信息设施](#gbif全球生物多样性信息设施)
    * [全球入侵物种数据库](#全球入侵物种数据库)
    * [入侵物种概要](#入侵物种概要)
 * [蚂蚁/Ants](#蚂蚁ants)
    * [AntWiKi](#antwiki)
    * [AntWeb](#antweb)
    * [AntCat](#antcat)
+   * [AntMaps](#antmaps)
    * [蚁网](#蚁网)
    * [蚂蚁分类图摘AntsPic](#蚂蚁分类图摘antspic)
+* [介壳虫/Scale](#介壳虫scale)
+   * [ScaleNet](#scalenet)
+* [直翅目/Orthoptera](#直翅目orthoptera)
+   * [Orthoptera Species File Online/直翅目物种文件在线](#orthoptera-species-file-online直翅目物种文件在线)
 * [学术相关/Scholar](#学术相关scholar)
    * [期刊简写查询](#期刊简写查询)
+   * [术语在线](#术语在线)
 
 ## 综合类/Integrated
 
@@ -71,6 +78,16 @@ PS：个人精力有限，不定期更新，欢迎更多人来维护。如有建
 ![生命目录主页](Image/COF01.png)
 
 ![生命目录检索](Image/COF02.png)
+
+### GBIF/全球生物多样性信息设施
+
+[👉网页URL](https://www.gbif.org/)
+
+> GBIF（全球生物多样性信息设施）是由世界各国政府资助的国际网络和研究基础设施，旨在为任何地方，任何人提供对地球上各种生命数据的开放访问。
+
+记录了全球大部分物种分布的国家或地区，会给出详细的经纬度和记录依据。本质上是一个开放的数据库，并且资料都可以下载。
+
+![GBIF主页](Image/image-20200428094957989.png)
 
 ### 全球入侵物种数据库
 
@@ -142,6 +159,29 @@ AntMaps是一个全球蚂蚁分布的在线可视化数据库，通过色块的�
 
 ![antspic](Image/antspic01.png)
 
+## 介壳虫/Scale
+
+### ScaleNet
+
+[👉网页URL](http://scalenet.info/catalogue/)
+
+> ScaleNet是用于查找有关介壳虫信息的工具：分类阶元，命名历史，地理分布，生态联系和经济重要性都有简介。该项目是对介壳虫文献进行建模。目前，它包含来自24586个参考文献的数据，涉及8379个有效物种名称。
+
+本人对介壳虫了解不多，之前爬过这个网站，感觉内容还是可以的。
+
+![Scale主页](Image/image-20200428093901439.png)
+
+## 直翅目/Orthoptera
+
+### Orthoptera Species File Online/直翅目物种文件在线
+
+[👉网页URL](http://orthoptera.speciesfile.org/HomePage/Orthoptera/HomePage.aspx)
+
+我觉得算是最大的直翅目在线数据库了，包括现存种类和化石种类的记录都有，主要是更新非常及时，最新的资料都可以查到。但有一个问题是国内的直翅目分类系统跟国际的不太一样，所以国内的命名可能还是要去翻昆虫志、经济昆虫志等书籍了，还有各大学术论文。
+
+![直翅目物种在线主页](Image/image-20200428095501860.png)
+
+
 ## 学术相关/Scholar
 
 ### 期刊简写查询
@@ -154,3 +194,12 @@ AntMaps是一个全球蚂蚁分布的在线可视化数据库，通过色块的�
 
 ![期刊简写](Image/AcademicAccelerator02.png)
 
+### 术语在线
+
+[👉网页URL](http://www.termonline.cn/index.htm)
+
+一些专有名词可以用这个网址查询，会给出相应的英文名或者中文名，还有所在的学科，来源也写得很明确，个人觉得是个很不错的网站。还有移动端的app，最近好像还上了微信的小程序。
+
+![术语在线官网](Image/image-20200428092332226.png)
+
+![image-20200428092811178](Image/image-20200428092811178.png)
